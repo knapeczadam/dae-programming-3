@@ -5,7 +5,7 @@ Welcome to my **Programming 3** repository — the next step after Programming 1
 
 ---
 
-## 🗂️ About this repository
+## 🗄️ About this repository
 
 This repository contains all **Programming 3** lab projects and exercises completed during the **third semester** at **Digital Arts & Entertainment**, **Howest University**, **Kortrijk, Belgium**.
 
@@ -18,9 +18,9 @@ The goal of this upload is **archival** and **educational**, keeping a clear rec
 
 ---
 
-## 🧱 Course Information
+## 🔎 Course Information
 
-**📘 Course:** Programming 3  
+**📚 Course:** Programming 3  
 **🏫 University:** Howest DAE – Digital Arts & Entertainment  
 **📍 Location:** Kortrijk, Belgium  
 **🗓️ Semester:** Third semester (2023–2024)  
@@ -66,7 +66,7 @@ The goal of this upload is **archival** and **educational**, keeping a clear rec
 
 ---
 
-## 🔖 Repository Structure
+## 📂 Repository Structure
 
 - All project files are available in the **main branch**.  
 - Each folder corresponds to a specific topic or assignment from the course.  
@@ -92,11 +92,10 @@ If you’re walking the same DAE path: embrace the complexity, read your compile
 
 ---
 
-### 🪪 License
+### ⚖️ License
 This repository is licensed under the **MIT License** — feel free to explore, reuse, and learn from the material.
 
 ---
 
 *Made with `constexpr` passion and countless compiler warnings 💻  
 — Adam*
-
