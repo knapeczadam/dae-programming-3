@@ -1,4 +1,4 @@
-# ⚙️ Programming 3 – Howest DAE (2023)
+# ⚙️ Programming 3  
 
 Hey there, fellow DAE developer or code enthusiast 👋  
 Welcome to my **Programming 3** repository — the next step after Programming 1 & 2, diving into **modern C++**, **system-level programming**, and **efficient code design**.
@@ -7,7 +7,7 @@ Welcome to my **Programming 3** repository — the next step after Programming 1
 
 ## 🗄️ About this repository
 
-This repository contains all **Programming 3** lab projects and exercises completed during the **third semester** at **Digital Arts & Entertainment**, **Howest University**, **Kortrijk, Belgium**.
+This repository contains all **Programming 3** lab projects and exercises completed during the **third semester (2023)** at **DAE**.
 
 Unlike the previous courses, **all projects are stored on the main branch** — representing the full set of assignments developed throughout the semester.  
 The goal of this upload is **archival** and **educational**, keeping a clear record of the learning process and progression in software craftsmanship.
@@ -21,9 +21,9 @@ The goal of this upload is **archival** and **educational**, keeping a clear rec
 ## 🔎 Course Information
 
 **📚 Course:** Programming 3  
-**🏫 University:** Howest DAE – Digital Arts & Entertainment  
+**🏫 University:** Howest University of Applied Sciences - Digital Arts and Entertainment  
 **📍 Location:** Kortrijk, Belgium  
-**🗓️ Semester:** Third semester (2023–2024)  
+**🗓️ Academic year:** 2023–24 | Third semester  
 **🎓 Study load:** 6 credits  
 **⏱️ Total study time:** 180 hours  
 
@@ -36,14 +36,13 @@ The goal of this upload is **archival** and **educational**, keeping a clear rec
 
 ---
 
-## 🎯 Learning Goals (LR09)
+## 🎯 Learning Goals
 
-> *The student Bachelor Digital Arts & Entertainment works in a problem-solving way, using context-specific programming skills and technical knowledge of underlying game technology, taking the imposed directives and technical limitations into account.*
-
-- Splits complex technical problems into smaller, solvable parts.  
-- Writes software that makes **efficient use of hardware**.  
-- Solves programming challenges using appropriate languages and tools.  
-- Implements structured, maintainable, and technically sound code.  
+- Apply problem-solving and critical thinking in programming tasks  
+- Break complex issues into smaller, solvable parts  
+- Write efficient, hardware-aware code  
+- Implement assignments using proper programming techniques  
+- Use context-specific game tech knowledge effectively  
 
 ---
 
@@ -98,4 +97,4 @@ This repository is licensed under the **MIT License** — feel free to explore, 
 ---
 
 *Made with `constexpr` passion and countless compiler warnings 💻  
-— Adam*
+— Ádám*
