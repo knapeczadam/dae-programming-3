@@ -31,8 +31,8 @@ The goal of this upload is **archival** and **educational**, keeping a clear rec
 
 ## 👨‍🏫 Teaching Staff
 
-- **Co-ordinator:** Tesch Tom  
-- **Other teaching staff:** Hoefman Kevin  
+- **Co-ordinator:** Tom Tesch
+- **Other teaching staff:** Kevin Hoefman
 
 ---
 
