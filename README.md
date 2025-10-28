@@ -1,4 +1,4 @@
-# ⚙️ Programming 3  
+# 🐔 Programming 3  
 
 Hey there, fellow DAE developer or code enthusiast 👋  
 Welcome to my **Programming 3** repository — the next step after Programming 1 & 2, diving into **modern C++**, **system-level programming**, and **efficient code design**.
