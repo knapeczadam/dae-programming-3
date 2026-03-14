@@ -93,8 +93,3 @@ If you’re walking the same DAE path: embrace the complexity, read your compile
 
 ### ⚖️ License
 This repository is licensed under the **MIT License** — feel free to explore, reuse, and learn from the material.
-
----
-
-*Made with `constexpr` passion and countless compiler warnings 💻  
-— Ádám*
